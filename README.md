@@ -5,6 +5,8 @@ It integrates detailed information regarding viral components, experimental drug
 
 **Web Server:** https://webs.iiitd.edu.in/oscadd/ebola/
 
+This can also be found on Zenodo at https://doi.org/10.5281/zenodo.20068108
+
 ## About the Database
 
 The Ebola virus causes a severe and often fatal hemorrhagic fever in humans and non-human primates.
