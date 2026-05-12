@@ -7,6 +7,11 @@ It integrates detailed information regarding viral components, experimental drug
 
 This can also be found on Zenodo at https://doi.org/10.5281/zenodo.20068108
 
+## Citation
+
+Dhanda, S., Chaudhary, K., Gupta, S. et al. **A web-based resource for designing therapeutics against Ebola Virus.**
+Sci Rep 6, 24782 (2016). https://doi.org/10.1038/srep24782
+
 ## About the Database
 
 The Ebola virus causes a severe and often fatal hemorrhagic fever in humans and non-human primates.
