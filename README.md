@@ -1,4 +1,4 @@
-# EbolaVCR: Ebola Virus Component and Resistance Database
+# EbolaVCR: A web-based resource for designing therapeutics against Ebola Virus
 
 **EbolaVCR** is a specialized, manually curated database designed to provide a comprehensive resource on the Ebola virus (EBOV).
 It integrates detailed information regarding viral components, experimental drugs, and genomic variations to support the global research community in developing effective therapeutics and vaccines.
